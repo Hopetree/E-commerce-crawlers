@@ -24,4 +24,8 @@
 - 信息效果：</br>
 ![](https://github.com/Hopetree/E-commerce-crawlers/blob/master/%E5%A4%A9%E7%8C%AB%E5%95%86%E5%93%81%E8%AF%84%E4%BB%B7%E6%A0%87%E7%AD%BE/0001.png)
 
+4、[**模拟登陆淘宝**](https://github.com/Hopetree/E-commerce-crawlers/tree/master/login_taobao)
+- 项目简介：使用账号密码模拟登陆淘宝
+- 主要库：
+`selenium`
 
