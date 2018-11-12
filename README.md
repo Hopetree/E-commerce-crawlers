@@ -42,3 +42,10 @@
 `csv`
 - 信息效果：</br>
 ![](https://github.com/Hopetree/E-commerce-crawlers/blob/master/tm-products-m/tm_m.png)
+
+6、[**天猫店铺全店商品scrapy版**](https://github.com/Hopetree/E-commerce-crawlers/tree/master/ECspiers)
+- 项目简介：爬取手机天猫某个店铺全部商品的基本信息，scrapy 爬虫
+- 主要库：
+`scrapy`
+
+
